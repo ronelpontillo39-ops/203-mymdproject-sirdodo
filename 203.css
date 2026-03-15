@@ -23,7 +23,7 @@ body{
 	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
 	font-size:0.75em;
 	color:#fff;
-	background:#fff url(./pics/giphy.gif);
+	background:#fff url(../pics/giphy.gif);
 	background-repeat: no-repeat;
 	background-position: center;
 	background-attachment: fixed;
@@ -57,7 +57,7 @@ p{
 	
 .page-wrapper h3{
 	padding:6px 0;
-	background:url(pics/header_bg.gif) top left repeat;
+	background:url(./pics/eyes.gif) top left repeat;
 	}
 	
 .supporting, .preamble, .sidebar{
@@ -112,7 +112,7 @@ ul li a.designer-name:hover, ul li a.designer-name:active{
 	}
 	
 ul li:hover{
-	background:url(pics/list_over.gif) top left repeat-x;
+	background:url(../pics/list_over.gif) top left repeat-x;
 	transform: scale(1.05);	
 	}
 	
@@ -136,8 +136,8 @@ a:hover, a:active{
 header{
 	width:396px;
 	height:319px;
-	background:url(pics/header.jpg) no-repeat top left;
-	animation: zenFloat 5s ease-in-out forwards;
+	background:url("../pics/header.jpg") no-repeat top left;
+	animation: zenFloat 5s ease-in-out infinite;
 	}
 	
 .summary{
