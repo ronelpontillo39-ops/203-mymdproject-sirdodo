@@ -57,7 +57,8 @@ p{
 	
 .page-wrapper h3{
 	padding:6px 0;
-	background:url(./pics/eyes.gif) top left repeat;
+	background:url(../pics/eyes.gif) top left repeat;
+	animation: zenFloat 7s ease-in-out infinite;
 	}
 	
 .supporting, .preamble, .sidebar{
