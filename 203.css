@@ -22,8 +22,8 @@ body{
 	padding:0;
 	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
 	font-size:0.75em;
-	color:#fff;
-	background:#fff url(../pics/giphy.gif);
+	color:#f8f4f4;
+	background:#fff url(./giphy.gif);
 	background-repeat: no-repeat;
 	background-position: center;
 	background-attachment: fixed;
@@ -52,7 +52,7 @@ p{
 }
 .page-wrapper h3{
 	padding:6px 0;
-	background:url(../pics/eyes.gif) top left repeat;
+	background:url(./eyes.gif) top left repeat;
 	animation: zenFloat 7s ease-in-out infinite;
 }
 .supporting, .preamble, .sidebar{
@@ -99,7 +99,7 @@ ul li a.designer-name:hover, ul li a.designer-name:active{
 }
 	
 ul li:hover{
-	background:url(../pics/list_over.gif) top left repeat-x;
+	background:url(./list_over.gif) top left repeat-x;
 	transform: scale(1.05);	
 }
 	
@@ -123,7 +123,7 @@ a:hover, a:active{
 header{
 	width:396px;
 	height:319px;
-	background: url(../pics/header.jpg) no-repeat top left;
+	background: url(./header.jpg) no-repeat top left;
 	animation: zenFloat 5s ease-in-out infinite;
 }
 .summary{
@@ -136,7 +136,7 @@ header{
 	margin:0 0 0.9em 0;
 	width:396px;
 	height:25px;
-	background:url(../pics/download.gif) no-repeat top left;
+	background:url(./download.gif) no-repeat top left;
 	text-indent: 100%;
 	white-space: nowrap;
 	overflow: hidden;
@@ -158,7 +158,7 @@ header{
 	overflow:hidden;
 }
 .sidebar{
-	background:#f70e0e00 url(../pics/200.webp) repeat-y top center;
+	background:#f70e0e00 url(./200.webp) repeat-y top center;
 	background-repeat: no-repeat;
 	background-position: center;
 	background-attachment: fixed;
@@ -171,13 +171,13 @@ header{
 	margin-top:1em;
 }
 .design-selection h3{
-	background:url(../pics/header_design.gif) no-repeat top left;
+	background:url(./header_design.gif) no-repeat top left;
 }
 .design-archives h3{
-	background:url(../pics/header_archives.gif) no-repeat top left;
+	background:url(./header_archives.gif) no-repeat top left;
 }
 .zen-resources h3{
-	background:url(../pics/header_resources.gif) no-repeat top left;
+	background:url(./header_resources.gif) no-repeat top left;
 }
 .zen-resources ul{
 	padding-bottom:8em;
@@ -193,7 +193,7 @@ footer{
 	width:396px;
 	height:72px;
 	text-transform:uppercase;
-	background:url(../pics/footer.gif) bottom left no-repeat;
+	background:url(./footer.gif) bottom left no-repeat;
 }
 
 .extra1{
